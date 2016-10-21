@@ -1,2 +1,1 @@
-# SampleRepo
-trashRepo
+HI Naveen.
